@@ -1,0 +1,10 @@
+.banner {
+    background-image: url('https://img.freepik.com/free-photo/shopping-cart-bags-black-background_23-2148317890.jpg'); /* Replace 'path/to/your/image.jpg' with the path to your banner image */
+    background-size: cover; /* Cover the entire container */
+    background-position: center; /* Center the image horizontally and vertically */
+    color: white; /* Text color for better readability */
+    text-align: center; /* Center the text */
+    padding: 100px 0;
+    height: 500px; 
+    margin-top: 50px;
+  }
